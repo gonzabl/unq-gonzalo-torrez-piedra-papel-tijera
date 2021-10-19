@@ -1,0 +1,43 @@
+body {
+    margin: 10px;
+    background-color: rgb(0, 0, 0);
+    
+}
+
+.item1 { grid-area: header; }
+.item2 { grid-area: reglas; }
+.item3 { grid-area: main; }
+
+
+.grid-container {
+    display: grid;
+    grid-template-areas:
+        'header header header header header header'
+        'reglas main main main main main'
+        'reglas main main main main main';
+    grid-gap: 10px;
+    background-color: #2196F3;
+    padding: 5px;
+}
+
+.player { grid-area: jugador; }
+.cpu { grid-area: compu; }
+
+.inner-container {
+    display: grid;
+    grid-template-areas:
+        'jugador jugador jugador compu compu compu'
+        'jugador jugador jugador compu compu compu';
+    grid-gap: 10px;
+}
+
+.grid-container > div {
+    background-color: rgba(255, 255, 255, 0.8);
+    text-align: center;
+    padding: 30px 0;
+    font-size: 30px;
+}
+
+.reglas{
+    width: 200px;
+} 
