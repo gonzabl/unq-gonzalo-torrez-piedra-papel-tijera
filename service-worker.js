@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/unq-gonzalo-torrez-piedra-papel-tijera.git/precache-manifest.9dc1b5141dfc240763f6eefae22be56b.js"
+  "/unq-gonzalo-torrez-piedra-papel-tijera.git/precache-manifest.5fd4b73e51cfd01831a3ba931ca0710c.js"
 );
 
 self.addEventListener('message', (event) => {

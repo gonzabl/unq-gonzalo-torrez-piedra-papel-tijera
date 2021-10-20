@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "4c7a3c589692bb4915db630f0b77af19",
+    "revision": "6ada70052fa7211b19613504ecce9fa5",
     "url": "/unq-gonzalo-torrez-piedra-papel-tijera.git/index.html"
   },
   {
-    "revision": "7b4e2bd7c0d94f96f2b3",
+    "revision": "ab44158259f9ccedbf07",
     "url": "/unq-gonzalo-torrez-piedra-papel-tijera.git/static/css/main.45eba360.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/unq-gonzalo-torrez-piedra-papel-tijera.git/static/js/2.b4e0f56c.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "7b4e2bd7c0d94f96f2b3",
-    "url": "/unq-gonzalo-torrez-piedra-papel-tijera.git/static/js/main.3efe14ee.chunk.js"
+    "revision": "ab44158259f9ccedbf07",
+    "url": "/unq-gonzalo-torrez-piedra-papel-tijera.git/static/js/main.c2812d4e.chunk.js"
   },
   {
     "revision": "04662adce6e5a249f851",

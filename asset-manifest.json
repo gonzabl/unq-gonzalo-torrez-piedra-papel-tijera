@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/unq-gonzalo-torrez-piedra-papel-tijera.git/static/css/main.45eba360.chunk.css",
-    "main.js": "/unq-gonzalo-torrez-piedra-papel-tijera.git/static/js/main.3efe14ee.chunk.js",
-    "main.js.map": "/unq-gonzalo-torrez-piedra-papel-tijera.git/static/js/main.3efe14ee.chunk.js.map",
+    "main.js": "/unq-gonzalo-torrez-piedra-papel-tijera.git/static/js/main.c2812d4e.chunk.js",
+    "main.js.map": "/unq-gonzalo-torrez-piedra-papel-tijera.git/static/js/main.c2812d4e.chunk.js.map",
     "runtime-main.js": "/unq-gonzalo-torrez-piedra-papel-tijera.git/static/js/runtime-main.3d7756b6.js",
     "runtime-main.js.map": "/unq-gonzalo-torrez-piedra-papel-tijera.git/static/js/runtime-main.3d7756b6.js.map",
     "static/js/2.b4e0f56c.chunk.js": "/unq-gonzalo-torrez-piedra-papel-tijera.git/static/js/2.b4e0f56c.chunk.js",
     "static/js/2.b4e0f56c.chunk.js.map": "/unq-gonzalo-torrez-piedra-papel-tijera.git/static/js/2.b4e0f56c.chunk.js.map",
     "index.html": "/unq-gonzalo-torrez-piedra-papel-tijera.git/index.html",
-    "precache-manifest.9dc1b5141dfc240763f6eefae22be56b.js": "/unq-gonzalo-torrez-piedra-papel-tijera.git/precache-manifest.9dc1b5141dfc240763f6eefae22be56b.js",
+    "precache-manifest.5fd4b73e51cfd01831a3ba931ca0710c.js": "/unq-gonzalo-torrez-piedra-papel-tijera.git/precache-manifest.5fd4b73e51cfd01831a3ba931ca0710c.js",
     "service-worker.js": "/unq-gonzalo-torrez-piedra-papel-tijera.git/service-worker.js",
     "static/css/main.45eba360.chunk.css.map": "/unq-gonzalo-torrez-piedra-papel-tijera.git/static/css/main.45eba360.chunk.css.map",
     "static/js/2.b4e0f56c.chunk.js.LICENSE.txt": "/unq-gonzalo-torrez-piedra-papel-tijera.git/static/js/2.b4e0f56c.chunk.js.LICENSE.txt",
@@ -24,6 +24,6 @@
     "static/js/runtime-main.3d7756b6.js",
     "static/js/2.b4e0f56c.chunk.js",
     "static/css/main.45eba360.chunk.css",
-    "static/js/main.3efe14ee.chunk.js"
+    "static/js/main.c2812d4e.chunk.js"
   ]
 }
