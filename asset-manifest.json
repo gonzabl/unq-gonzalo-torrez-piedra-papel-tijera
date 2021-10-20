@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/unq-gonzalo-torrez-piedra-papel-tijera.git/static/css/main.45eba360.chunk.css",
+    "main.js": "/unq-gonzalo-torrez-piedra-papel-tijera.git/static/js/main.3efe14ee.chunk.js",
+    "main.js.map": "/unq-gonzalo-torrez-piedra-papel-tijera.git/static/js/main.3efe14ee.chunk.js.map",
+    "runtime-main.js": "/unq-gonzalo-torrez-piedra-papel-tijera.git/static/js/runtime-main.3d7756b6.js",
+    "runtime-main.js.map": "/unq-gonzalo-torrez-piedra-papel-tijera.git/static/js/runtime-main.3d7756b6.js.map",
+    "static/js/2.b4e0f56c.chunk.js": "/unq-gonzalo-torrez-piedra-papel-tijera.git/static/js/2.b4e0f56c.chunk.js",
+    "static/js/2.b4e0f56c.chunk.js.map": "/unq-gonzalo-torrez-piedra-papel-tijera.git/static/js/2.b4e0f56c.chunk.js.map",
+    "index.html": "/unq-gonzalo-torrez-piedra-papel-tijera.git/index.html",
+    "precache-manifest.9dc1b5141dfc240763f6eefae22be56b.js": "/unq-gonzalo-torrez-piedra-papel-tijera.git/precache-manifest.9dc1b5141dfc240763f6eefae22be56b.js",
+    "service-worker.js": "/unq-gonzalo-torrez-piedra-papel-tijera.git/service-worker.js",
+    "static/css/main.45eba360.chunk.css.map": "/unq-gonzalo-torrez-piedra-papel-tijera.git/static/css/main.45eba360.chunk.css.map",
+    "static/js/2.b4e0f56c.chunk.js.LICENSE.txt": "/unq-gonzalo-torrez-piedra-papel-tijera.git/static/js/2.b4e0f56c.chunk.js.LICENSE.txt",
+    "static/media/lagarto.png": "/unq-gonzalo-torrez-piedra-papel-tijera.git/static/media/lagarto.509ce40e.png",
+    "static/media/papel.png": "/unq-gonzalo-torrez-piedra-papel-tijera.git/static/media/papel.32f8d013.png",
+    "static/media/piedra.png": "/unq-gonzalo-torrez-piedra-papel-tijera.git/static/media/piedra.bf49615b.png",
+    "static/media/reglas.png": "/unq-gonzalo-torrez-piedra-papel-tijera.git/static/media/reglas.75d911ca.png",
+    "static/media/selector.png": "/unq-gonzalo-torrez-piedra-papel-tijera.git/static/media/selector.3c17c8fe.png",
+    "static/media/spock.png": "/unq-gonzalo-torrez-piedra-papel-tijera.git/static/media/spock.b5243116.png",
+    "static/media/tijera.png": "/unq-gonzalo-torrez-piedra-papel-tijera.git/static/media/tijera.7bf9032e.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3d7756b6.js",
+    "static/js/2.b4e0f56c.chunk.js",
+    "static/css/main.45eba360.chunk.css",
+    "static/js/main.3efe14ee.chunk.js"
+  ]
+}
