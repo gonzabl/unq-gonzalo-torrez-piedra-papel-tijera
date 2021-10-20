@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/unq-gonzalo-torrez-piedra-papel-tijera.git/precache-manifest.5fd4b73e51cfd01831a3ba931ca0710c.js"
+  "/unq-gonzalo-torrez-piedra-papel-tijera/precache-manifest.58c17f60022d364f68dc5fbba6206d1a.js"
 );
 
 self.addEventListener('message', (event) => {
@@ -33,7 +33,7 @@ workbox.core.clientsClaim();
 self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute(workbox.precaching.getCacheKeyForURL("/unq-gonzalo-torrez-piedra-papel-tijera.git/index.html"), {
+workbox.routing.registerNavigationRoute(workbox.precaching.getCacheKeyForURL("/unq-gonzalo-torrez-piedra-papel-tijera/index.html"), {
   
   blacklist: [/^\/_/,/\/[^/?]+\.[^/]+$/],
 });
